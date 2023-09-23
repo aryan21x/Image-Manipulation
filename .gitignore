@@ -1,0 +1,12 @@
+**/Debug/*
+**/x64/*
+**/.vs/*
+**/html/*
+*.exe
+*.obj
+*.txt
+*.bin
+*.cvs
+*.data
+*.ppm
+*.pgm
